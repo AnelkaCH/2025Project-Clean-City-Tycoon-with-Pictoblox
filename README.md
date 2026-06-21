@@ -24,8 +24,7 @@ The core loop is budgeting and critical thinking: there is no single winning str
 
 ## Demo
 
-A video demonstration of the project is available: [link to video]
-
+https://github.com/user-attachments/assets/54a5abec-fb9f-472b-9c87-9fd36acd8511
 
 ## What I Learned
 
